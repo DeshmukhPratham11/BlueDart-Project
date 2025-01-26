@@ -106,6 +106,6 @@ This project is licensed under the MIT License.
 Contact 📧
 For any questions or support, feel free to reach out:
 Email: phdeshmukh11@gmail.com
-LinkedIn: Prathamesh Deshmukh
+LinkedIn: [Prathamesh Deshmukh](https://www.linkedin.com/in/prathameshdeshmukh11/)
 
 Automate, Innovate, Celebrate! 🚀
